@@ -1,0 +1,12 @@
+﻿
+
+Console.OutputEncoding=System.Text.Encoding.UTF8;
+Console.WriteLine("Hello C#");
+Console.WriteLine("Name: Nuray Sayar");
+Console.WriteLine("Department:Computer Engineering");
+Console.WriteLine("Grade: 2");
+Console.WriteLine("Date/Time: "+ DateTime.Now);
+Console.Write("Enter the Celsius value: ");
+double C = double.Parse(Console.ReadLine());
+double F= C*9/5+32;
+Console.WriteLine($"Fahrenheit value: {F}");
