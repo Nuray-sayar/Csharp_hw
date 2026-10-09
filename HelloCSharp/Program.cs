@@ -1,6 +1,4 @@
-﻿
-
-Console.OutputEncoding=System.Text.Encoding.UTF8;
+﻿Console.OutputEncoding=System.Text.Encoding.UTF8;
 Console.WriteLine("Hello C#");
 Console.WriteLine("Name: Nuray Sayar");
 Console.WriteLine("Department:Computer Engineering");
